@@ -1,10 +1,3 @@
-/* Un commentaire supplémentaire */
-/*
-*
- * Simple Placeholder by @marcgg under MIT License
- * Report bugs or contribute on Gihub: https://github.com/marcgg/Simple-Placeholder
-*/
-
 (function($) {
   $.simplePlaceholder = {
     placeholderClass: null,
